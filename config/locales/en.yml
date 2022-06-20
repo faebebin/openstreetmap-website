@@ -213,7 +213,7 @@ en:
       openid: OpenID
       google: Google
       facebook: Facebook
-      windowslive: Windows Live
+      microsoft: Microsoft
       github: GitHub
       wikipedia: Wikipedia
   api:
